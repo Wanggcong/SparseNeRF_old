@@ -131,7 +131,7 @@ sh get_video.sh
 ```
 tensorboard --logdir=./out/xxx/ --port=6006
 ```
-If it raises errors, see Q2 of [FQA](https://github.com/Wanggcong/SparseNeRF/blob/main/FQA.md)
+If it raises errors, see Q2 of [FQA](https://github.com/Wanggcong/SparseNeRF/blob/master/FQA.md)
 
 
 ## 6. To-Do
@@ -174,4 +174,4 @@ Guangcong Wang, Zhaoxi Chen, Chen Change Loy, and Ziwei Liu. SparseNeRF: Distill
 This code is based on the [RegNeRF](https://github.com/google-research/google-research/tree/master/regnerf) and [DPT](https://github.com/isl-org/DPT) codebases. 
 
 ## 10. FAQ
-We will summarize frequently asked questions at this link [FAQ](https://github.com/Wanggcong/SparseNeRF/blob/main/FQA.md).
+We will summarize frequently asked questions at this link [FAQ](https://github.com/Wanggcong/SparseNeRF/blob/master/FQA.md).
