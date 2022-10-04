@@ -45,7 +45,11 @@ pip install -r requirements.txt
 ```
 
 Download jax+cuda (jaxlib-0.1.68+cuda101-cp36) wheels from [this link](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html)
+```
+wget https://storage.googleapis.com/jax-releases/cuda101/jaxlib-0.1.68+cuda101-cp36-none-manylinux2010_x86_64.whl
+```
 
+Install the downloaded file:
 ```
 pip install jaxlib-0.1.68+cuda101-cp36-none-manylinux2010_x86_64.whl
 ```
