@@ -37,6 +37,9 @@
 
 ## 2. Installation
 We recommend using the virtual environment (conda) to run the code easily.
+```
+git clone 
+```
 
 ```
 conda create -n sparsenerf python=3.6.13
