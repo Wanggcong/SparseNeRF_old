@@ -38,7 +38,8 @@
 ## 2. Installation
 We recommend using the virtual environment (conda) to run the code easily.
 ```
-git clone 
+git clone https://github.com/Wanggcong/SparseNeRF.git
+cd SparseNeRF
 ```
 
 ```
